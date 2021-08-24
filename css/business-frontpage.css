@@ -1,0 +1,117 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  color: green;
+  background-image: url(../images/hotel.jpg);
+  background: url("../image/coins.jpg") center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h2 {
+  color: #3399ff;
+}
+
+.card {
+  height: 100%;
+}
+
+/*contact form*/
+.contact-form button {
+  background: #25274d;
+  color: #fff;
+  font-weight: 600;
+  width: 25%;
+}
+/* .contact{
+		padding: 4%;
+		height: 400px;
+	} */
+.col-md-3 {
+  background: #87cefa;
+  padding: 4%;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  margin-bottom: 20px;
+}
+.contact-info {
+  margin-top: 10%;
+}
+.contact-info img {
+  margin-bottom: 15%;
+}
+.contact-info h2 {
+  margin-bottom: 10%;
+}
+.col-md-9 {
+  background: #fff;
+  padding: 3%;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+.contact-form label {
+  font-weight: 600;
+}
+.contact-form button {
+  background: #25274d;
+  color: #fff;
+  font-weight: 600;
+  width: 25%;
+}
+.contact-form button:focus {
+  box-shadow: none;
+}
+
+.services {
+  margin-bottom: 20%;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+#finalMsg {
+  padding-top: 5px;
+  padding-bottom: 150px;
+  font-size: 25px;
+  color: #072f5f;
+}
+
+#errors {
+  margin-top: 40px;
+  background: #ffc199; /*Change background color*/
+  border-left: 9px solid #ff6600; /*Change left border color*/
+  color: #2c3e50; /*Change text color*/
+}
+
+p {
+  text-align: justify;
+  padding-right: 50px;
+}
