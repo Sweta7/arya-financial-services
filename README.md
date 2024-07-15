@@ -1,12 +1,9 @@
+Link to Demo App: https://sweta7.github.io/arya-financial-services/
+
 # [Start Bootstrap - Business Frontpage](https://startbootstrap.com/template-overviews/business-frontpage/)
 
 [Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Preview
-
-[![Business Frontpage Preview](https://startbootstrap.com/assets/img/templates/business-frontpage.jpg)](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)**
 
 ## Status
 
